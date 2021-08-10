@@ -1,4 +1,6 @@
-# projeto-wdev
+# Projeto Site WDEV
+
+Projeto desenvolvido utilizando o Framework VueJS. Dados obtidos por meio de APIs utilizando o Axios.
 
 ## Project setup
 ```
